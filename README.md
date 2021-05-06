@@ -11,7 +11,7 @@ How to add a mod to dbw
 2. Close your current dbw tab.
 3. Go to your bots data this can be found in the location you created the bot in.
 4. Create a new folder in the workroom folder the new folder must be called "mods" (without "").
-5. Download the mods (the .js files) you want to use and drag them into your mods folder.
+5. Download the mods (the .js files) you want to use and drag them into your mods folder. (every mod is listed in https://github.com/Maxl1823/Dbw-mods/tree/main/mods)
 6. Now restart dbw and load your bot.
 7. The nodes/functions you downloaded should now be added to your bot.
 
