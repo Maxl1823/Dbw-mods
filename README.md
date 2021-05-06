@@ -15,6 +15,8 @@ How to add a mod to dbw
 6. Now restart dbw and load your bot.
 7. The nodes/functions you downloaded should now be added to yout bot.
 
+Please report any bugs in mods in the issues tab!
+
 We are not affiliated with dbw in any ways.
 
 Made by Maxl#1111 and JopGamerNL#3526
